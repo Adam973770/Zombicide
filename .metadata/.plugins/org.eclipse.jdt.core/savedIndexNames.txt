@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\adamr\Desktop\L2 Info\Projet\l2s4-projet-2024\.metadata\.plugins\org.eclipse.jdt.core
+349336806.index
+1017882679.index
+1865797976.index
+3413725848.index

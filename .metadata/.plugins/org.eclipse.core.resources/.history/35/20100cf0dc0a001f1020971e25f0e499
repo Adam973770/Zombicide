@@ -1,0 +1,12 @@
+package projet.listchooser.src.game;
+
+import projet.listchooser.src.listchooser.ListChooser;
+
+public class Player {
+
+	
+	public PFC play() {
+		public static ListChooser<PFC> lc
+		return Game.lc.choose("Choisissez parmi", PFC.valuesAsList());
+	}
+}
